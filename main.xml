@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <id>1</id>
+    <name>John Smith</name>
+    <position>Manager</position>
+    <salary>100000</salary>
+  </employee>
+  <employee>
+    <id>2</id>
+    <name>Jane Doe</name>
+    <position>Developer</position>
+    <salary>80000</salary>
+  </employee>
+  <employee>
+    <id>3</id>
+    <name>Bob Johnson</name>
+    <position>Designer</position>
+    <salary>75000</salary>
+  </employee>
+  <employee>
+    <id>4</id>
+    <name>Emily Wong</name>
+    <position>Developer</position>
+    <salary>85000</salary>
+  </employee>
+  <employee>
+    <id>5</id>
+    <name>Mark Davis</name>
+    <position>Manager</position>
+    <salary>95000</salary>
+  </employee>
+</employees>
